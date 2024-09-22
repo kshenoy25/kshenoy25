@@ -20,3 +20,8 @@
 
 [![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshenoy25&showprivate=true&showicons=true&theme=dracula&hiderank=false)]
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshenoy25&show_icons=true&locale=en" alt="kshenoy25" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshenoy25&" alt="kshenoy25" /></p>
+
