@@ -19,9 +19,6 @@
 📊 GitHub Stats
 
 [![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshenoy25&showprivate=true&showicons=true&theme=dracula&hiderank=false)]
-
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=kshenoy25&theme=dracula)](https://github.com/kshenoy25/github-profile-trophy)
 
 
