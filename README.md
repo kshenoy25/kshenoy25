@@ -1,7 +1,7 @@
 ## Hi there I'm Kunal👋
 
 🧑🏾‍💻 Aspiring full stack developer, data analyist/scientist sharing my journey and learnings in tech<br/>
-💭 Currently learning about machine learning in a data science bootcamp!<br/>
+💭 Currently studying about machine learning in a data science bootcamp!<br/>
 
 
 💻 Tech Stack
